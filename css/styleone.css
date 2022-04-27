@@ -1,0 +1,60 @@
+.block{
+    margin: 250px;
+  
+    background-color:aliceblue;
+
+}
+.row{
+    background-color: darkcyan;
+height: 1000px;
+    padding: 10px;
+    display: flex;
+    flex-direction: column-reverse;
+
+
+}
+.col{
+      background-color:chocolate;
+    width: 100px;
+    padding: 5px;
+    font-size: 20px;
+    line-height: 200px;
+    border: 1px solid black;
+    text-align: center;
+
+    
+}
+.col2{
+   
+}
+.col1{
+    
+}
+
+.col3{
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
